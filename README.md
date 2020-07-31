@@ -1,3 +1,3 @@
-# BBQ MAster
+# BBQ Master
 
 A simple landing page
